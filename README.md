@@ -3,4 +3,3 @@
 # step : 2 npm run dev
 
 # site link
-https://silly-school-uniform-ox.cyclic.app/
